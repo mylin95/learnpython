@@ -1,0 +1,7 @@
+print('hello world!', 'my first python programming', 'just done.')
+print(100 + 200)
+print('100 + 200 = ', 100 + 200)
+name = input()
+print(name)
+name = input('enter your name:')
+print('hello, ', name, '. welcome to you.')
